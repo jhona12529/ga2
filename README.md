@@ -5,12 +5,12 @@ Repositotio de fundamentos de algoritmos donde se usara algoritmos en Lenguajes 
 ## Lenguaje de Programacion 
 
 - C#
-#
+
 - Python 
 
 ## Control de versiones 
 
 - GitBash
-#
+
 - Github
 
